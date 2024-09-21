@@ -317,7 +317,7 @@ class Admin extends CI_Controller
 		}
 		else
 		{
-			$this->session->set_flashdata('error','Error to add Sub category...');
+			$this->session->set_flashdata('error','Error to add SubCategory...');
 			redirect("admin/add_sub_category");
 		}
 		}
