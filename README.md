@@ -1,10 +1,7 @@
 # News_portal_using_Codeignitor
 
-This is a simple news portal project
-this project is created by using software are php,codeignitor,sql,css,jquery,javascript and Ajax.
-
-Default Username/Password:-
-1. admin@gmail.com/12345
+This is a simple news portal project. This project is created by using software are php,codeignitor,sql,css,jquery,javascript and Ajax.
+Default Admin Username/Password:- admin@gmail.com/12345
 
 ![n2](https://github.com/ganeshkumar2022/News_portal_using_Codeignitor/assets/118204387/2ba15c54-cf65-4614-8b84-3ea7d33e52f3)
 ![n1](https://github.com/ganeshkumar2022/News_portal_using_Codeignitor/assets/118204387/c8595108-fd82-43b1-ad7e-680f4586a37c)
