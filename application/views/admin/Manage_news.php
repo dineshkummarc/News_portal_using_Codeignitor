@@ -102,7 +102,7 @@ View
 				<td><?=$category->category_name?></td>
 			</tr>
 			<tr>
-				<td>Sub Category</td>
+				<td>SubCategory</td>
 				<td><?=$category->sub_category_name?></td>
 			</tr>
 			<tr>
