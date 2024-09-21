@@ -49,14 +49,14 @@ if(isset($a))
 	echo $a;
 }
 ?>
-	<h4>Manage Sub Category</h4>
+	<h4>Manage SubCategory</h4>
 <div class="row">
 <div class="col-md-12">
 	<table class="table table-striped table-bordered table-sm">
 		<tr class="bg-primary text-white">
 			<td>S.No</td>
 			<td>Category name</td>
-			<td>Sub Category name</td>
+			<td>SubCategory name</td>
 			<td>News title</td>
 			<td>Manage</td>
 		</tr>
@@ -102,7 +102,7 @@ View
 				<td><?=$category->category_name?></td>
 			</tr>
 			<tr>
-				<td>Sub category</td>
+				<td>Sub Category</td>
 				<td><?=$category->sub_category_name?></td>
 			</tr>
 			<tr>
