@@ -74,7 +74,7 @@ foreach($category as $row)
 </div>
 <div class="col-md-6">
 <div class="form-group">
-    <label for="pwd">Sub Category name:</label>
+    <label for="pwd">SubCategory name:</label>
 	<select id="su_id" name="sub_category_id" class="form-control" required>
 		<option value="<?=$news->sub_category_id?>"><?=$news->sub_category_name?></option>
 </select>
