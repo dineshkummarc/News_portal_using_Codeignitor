@@ -20,7 +20,7 @@
   </li>
    </div>
   <li class="nav-item subcategory">
-    <a class="nav-link text-dark" href="#"><i class="fa-solid fa-book-open"></i> Sub Category <i class="fa-solid fa-chevron-down float-right mt-2"></i></a>
+    <a class="nav-link text-dark" href="#"><i class="fa-solid fa-book-open"></i> SubCategory <i class="fa-solid fa-chevron-down float-right mt-2"></i></a>
   </li>
 	<div style="display:none;" class="scat">
 	<li class="nav-item">
