@@ -9,25 +9,25 @@
     <a class="nav-link text-dark" href="dashboard"><i class="fa-solid fa-gauge"></i> Dashboard</a>
   </li>
   <li class="nav-item category">
-    <a class="nav-link text-dark" href="#"><i class="fa-solid fa-suitcase"></i> Add category <i class="fa-solid mmmm fa-chevron-down float-right mt-2"></i></a>
+    <a class="nav-link text-dark" href="#"><i class="fa-solid fa-suitcase"></i> Add Category <i class="fa-solid mmmm fa-chevron-down float-right mt-2"></i></a>
   </li>
 	<div style="display:none;" class="cat">
 	<li class="nav-item">
     <a class="nav-link text-dark" href="<?=base_url('admin/category_add')?>"><i class="fa-solid fa-calendar-plus"></i> Add</a>
   </li>
 	<li class="nav-item">
-    <a class="nav-link text-dark" href="<?=base_url('admin/manage_category')?>"><i class="fa-solid fa-puzzle-piece"></i> Manage category</a>
+    <a class="nav-link text-dark" href="<?=base_url('admin/manage_category')?>"><i class="fa-solid fa-puzzle-piece"></i> Manage Category</a>
   </li>
    </div>
   <li class="nav-item subcategory">
-    <a class="nav-link text-dark" href="#"><i class="fa-solid fa-book-open"></i> Sub category <i class="fa-solid fa-chevron-down float-right mt-2"></i></a>
+    <a class="nav-link text-dark" href="#"><i class="fa-solid fa-book-open"></i> Sub Category <i class="fa-solid fa-chevron-down float-right mt-2"></i></a>
   </li>
 	<div style="display:none;" class="scat">
 	<li class="nav-item">
     <a class="nav-link text-dark" href="<?=base_url('admin/add_sub_category')?>"><i class="fa-solid fa-circle-plus"></i> Add</a>
   </li>
 	<li class="nav-item">
-    <a class="nav-link text-dark" href="<?=base_url('admin/manage_sub_category')?>"><i class="fa-solid fa-map"></i> Manage category</a>
+    <a class="nav-link text-dark" href="<?=base_url('admin/manage_sub_category')?>"><i class="fa-solid fa-map"></i> Manage SubCategory</a>
   </li>
    </div>
 	 <li class="nav-item news">
