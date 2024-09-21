@@ -37,7 +37,7 @@ include('leftbar.php');
 			<div class="card shadow-sm">
 				<div class="card-body " style="background-color:white;">
 			    <h4>3</h4>
-			    <p>Total news category</p>
+			    <p>Total News Category</p>
         </div>
 			</div>
 		</div>
@@ -46,7 +46,7 @@ include('leftbar.php');
 			<div class="card shadow-sm">
 				<div class="card-body " style="background-color:white;">
 			    <h4>4</h4>
-			    <p>Total news sub category</p>
+			    <p>Total News SubCategory</p>
         </div>
 			</div>
 		</div>
@@ -55,7 +55,7 @@ include('leftbar.php');
 			<div class="card shadow-sm">
 				<div class="card-body " style="background-color:white;">
 			    <h4>6</h4>
-			    <p>Total news comments</p>
+			    <p>Total News Comments</p>
         </div>
 			</div>
 		</div>
