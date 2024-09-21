@@ -39,7 +39,7 @@ if(isset($a))
 	echo $a;
 }
 ?>
-	<h4>Add Sub Category</h4>
+	<h4>Add SubCategory</h4>
 	<div class="row">
 		<div class="col-md-6">
 			
@@ -59,8 +59,8 @@ foreach($category as $row)
   </select>
 </div>
 <div class="form-group">
-    <label for="pwd">Sub Category name:</label>
-    <input type="text" class="form-control" placeholder="Enter sub category name" name="sub_category_name" id="opwd" required>
+    <label for="pwd">SubCategory name:</label>
+    <input type="text" class="form-control" placeholder="Enter subcategory name" name="sub_category_name" id="opwd" required>
 </div>
 </div>
 <div class="col-md-6"></div>
