@@ -1,5 +1,5 @@
 # phpmyCINews
-previously News_portal_using_Codeignitor
+previously News_portal_using_CodeIgniter
 
 This is a simple news portal project. This project is created by using software are php,codeignitor,sql,css,jquery,javascript and Ajax.
 Default Admin Username/Password:- admin@gmail.com/12345
